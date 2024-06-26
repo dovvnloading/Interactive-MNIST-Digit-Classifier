@@ -12,11 +12,16 @@ MNIST Digit Classifier & Drawer provides an intuitive and insightful glimpse int
 The Mnist dataset will automatically download to a folder within the script location (roughly 350mb). This will only occur once, 
 unless the dataset is moved.
 ______________________________________________________________________________
+# Lib
+pip install tensorflow
+pip install numpy
+pip install matplotlib
+pip install scipy
 ______________________________________________________________________________
+
 # Structuring 
 
-1. Import Statements
-Purpose: Imports necessary libraries and modules for machine learning (TensorFlow, Keras), data handling (NumPy),
+1.  Imports necessary libraries and modules for machine learning (TensorFlow, Keras), data handling (NumPy),
 plotting (Matplotlib), user interface (Tkinter), file system operations (os), and image manipulation (scipy.ndimage.zoom).
 Modules Used:
 TensorFlow and Keras: For building and training neural networks.
