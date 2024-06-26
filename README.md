@@ -8,8 +8,8 @@ the capabilities of modern AI technology but also serves as an educational tool 
 classification and neural network operations. Whether for educational purposes or fun experimentation, 
 MNIST Digit Classifier & Drawer provides an intuitive and insightful glimpse into the workings of machine learning.
 
-*** I've included a trained model. To use it - simply place the file in the same location as your script. 
-The Mnist dataset will automatically download to a folder within the script location. This will only occur once, 
+*** I've included a trained model 'mnist_cnn_model.h5'. To use it - simply place the file in the same location as your script. 
+The Mnist dataset will automatically download to a folder within the script location (roughly 350mb). This will only occur once, 
 unless the dataset is moved.
 ______________________________________________________________________________
 ______________________________________________________________________________
